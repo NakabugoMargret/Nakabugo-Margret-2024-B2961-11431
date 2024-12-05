@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Mai&display=swap');
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(OIP\ \(4\).jpg);
+    /* background-repeat: none; */
+    /* background-size: cover; */
+}
+header {
+    background:rgb(214, 98, 160);
+    color: pink;
+    padding: 10px 0;
+    text-align: center;
+}
+nav {
+    margin: 10px 0;
+}
+nav a {
+    color:rgb(211, 181, 139);
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: bold;
+    text-decoration: none;
+}
+.container p{
+    font-size: 25px;
+    font-family: Impact, 'Arial Narrow Bold';
+    color: rgb(170, 12, 159);
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.about h2{
+font-size: 40px;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+color: red;
+}
+section {
+    background: hsl(193, 15%, 52%);
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #35424a;
+    color: rgb(208, 143, 3);
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    }
+    .container img{
+        border-radius: 50px;
+
+    }
+    .footer p{
+        font-size: 30px;
+        font-weight: bold;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: blanchedalmond;
+    }
+    .container i{
+        font-size: 80px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
